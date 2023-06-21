@@ -25,5 +25,3 @@ application = ProtocolTypeRouter({
         )
     ),
 })
-# rsb1at6lvnMacBookPro
-# daphne myproject.asgi:application
